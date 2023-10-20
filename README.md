@@ -24,7 +24,7 @@
 - [Developing Cloud Native Applications](https://www.coursera.org/account/accomplishments/verify/9MHWWXRU37NB)
   
 ## Linguagems mais usadas
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Antonio-Ramon&layout=compact&theme=radical)](https://github.com/leonardogiagio/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Antonio-Ramon&layout=compact&theme=radical)](https://github.com/Antonio-Ramon/github-readme-stats)
 
 ## Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Ramon&show_icons=true&theme=tokyonight)
