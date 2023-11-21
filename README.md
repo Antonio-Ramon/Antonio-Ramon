@@ -12,6 +12,7 @@
 - [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/verify/SGZ7PFCXC2KM)
 - [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/U6AHVPAPYZZK)
 - [Developing Cloud Native Applications](https://www.coursera.org/account/accomplishments/verify/9MHWWXRU37NB)
+- [Front-end Development with React](https://www.coursera.org/account/accomplishments/verify/439F3DYMKCXN)
 
 ## Analytics
 <div align="justify">
