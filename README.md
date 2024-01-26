@@ -13,6 +13,7 @@
 - [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/U6AHVPAPYZZK)
 - [Developing Cloud Native Applications](https://www.coursera.org/account/accomplishments/verify/9MHWWXRU37NB)
 - [Front-end Development with React](https://www.coursera.org/account/accomplishments/verify/439F3DYMKCXN)
+- [Designing User Interfaces and Experiences (UI/UX)](https://www.coursera.org/account/accomplishments/verify/5S73AEUCFMF4)
 
 ## Analytics
 <div align="justify">
