@@ -15,6 +15,7 @@
 - [Front-end Development with React](https://www.coursera.org/account/accomplishments/verify/439F3DYMKCXN)
 - [Designing User Interfaces and Experiences (UI/UX)](https://www.coursera.org/account/accomplishments/verify/5S73AEUCFMF4)
 - [Developing Websites and Front-Ends with Bootstrap](https://www.coursera.org/account/accomplishments/verify/HDYSA5Y4UYTP)
+- [Intermediate Web and Front-End Development](https://www.coursera.org/account/accomplishments/verify/DQERC2ZG5YB3)
 
 ## Analytics
 <div align="justify">
