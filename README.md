@@ -8,14 +8,8 @@
 - [Creedly](https://www.credly.com/users/antonio-ramon-alves-silva)
 
 ## Certificações
-- [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/AVP422LGHAJL)
-- [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/verify/SGZ7PFCXC2KM)
-- [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/U6AHVPAPYZZK)
-- [Developing Cloud Native Applications](https://www.coursera.org/account/accomplishments/verify/9MHWWXRU37NB)
-- [Front-end Development with React](https://www.coursera.org/account/accomplishments/verify/439F3DYMKCXN)
-- [Designing User Interfaces and Experiences (UI/UX)](https://www.coursera.org/account/accomplishments/verify/5S73AEUCFMF4)
-- [Developing Websites and Front-Ends with Bootstrap](https://www.coursera.org/account/accomplishments/verify/HDYSA5Y4UYTP)
-- [Intermediate Web and Front-End Development](https://www.coursera.org/account/accomplishments/verify/DQERC2ZG5YB3)
+- [IBM Front-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/Z6P32FK6YPHE)
+  
 
 ## Analytics
 <div align="justify">
